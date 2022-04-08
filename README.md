@@ -129,9 +129,8 @@ port number and where you map keys and host folders.
 ### .vscode/settings.json   
 Settings file to let you immedietly code in VSCode with [VSCode ObjectScript plugin](https://marketplace.visualstudio.com/items?itemName=daimor.vscode-objectscript)
 ###  .vscode/launch.json  
-Config file if you want to debug with VSCode ObjectScript
+Config file if you want to debug with VSCode ObjectScript     
 
-### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/Dataset-Lightweight-M-N/master/CodeQuality.JPG) 
+[Article in DC](https://community.intersystems.com/post/dataset-lightweight-mn)   
 
-[Article in DC](https://community.intersystems.com/post/dataset-lightweight-mn)
+**Code Quality** in SCREENSHOTS
