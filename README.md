@@ -133,4 +133,5 @@ Config file if you want to debug with VSCode ObjectScript
 
 [Article in DC](https://community.intersystems.com/post/dataset-lightweight-mn)   
 
-**Code Quality** in SCREENSHOTS
+**Code Quality**  
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1468/screenshots/mh9xeacu36zgo3xctsndnjd3rdm.jpg">
