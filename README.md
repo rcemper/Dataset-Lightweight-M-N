@@ -42,7 +42,7 @@ This is included in Docker image setup
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 
 ## Installation 
-Clone/git pull the repo into any local directory
+Clone/git pull the repo into any local directory 
 ```
 git clone https://github.com/isc-at/Dataset-simple-M-N.git
 ```
