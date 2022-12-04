@@ -123,9 +123,3 @@ Silver IRIS Contest Winner	11	PMVZQY]M(LQI[		44
 
 [Article in DC](https://community.intersystems.com/post/dataset-lightweight-mn)   
 
-
-[Demo Server SMP](https://dataset-lightweight-m-n.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://dataset-lightweight-m-n.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**  
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1468/screenshots/mh9xeacu36zgo3xctsndnjd3rdm.jpg">
