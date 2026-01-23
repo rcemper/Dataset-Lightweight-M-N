@@ -1,3 +1,6 @@
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b> 
+
 # Dataset Lightweight M:N
 This data set demonstrates a basic M:N relationship between 2 tables   
 The dataset is targeted to show a **slim** implementation of M:N    
@@ -53,7 +56,6 @@ docker-compose up -d --build
 ## How to Test it
 Connect to the containers SMP and examine content in namespace USER   
 applying the described examples      
-**[or use Online Demo](https://lightweight-mn.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)**
 
 ### Example 1 
 - find badges for specific members
